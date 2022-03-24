@@ -1,5 +1,6 @@
 # Node.js-Banking-application
-type npm install from the terminal to download dependencies before running the file. 
+type "npm install" from the terminal to download dependencies
+type "node app.js" from the terminal to run the app
 
 Tests using postman:
 
